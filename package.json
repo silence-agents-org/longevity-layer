@@ -1,0 +1,1 @@
+{"name":"longevity-layer","version":"0.1.0","description":"Local-first, rule-based long-horizon pattern ledger. Not medical advice.","license":"Apache-2.0","bin":{"longevity-layer":"serve.js"},"scripts":{"start":"node serve.js","test":"node test.js"}}
