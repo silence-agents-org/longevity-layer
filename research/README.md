@@ -1,4 +1,7 @@
-# Open research questions
+# Research
+
+**[SIGNALS: latest global signals by region](SIGNALS.md)** · [Daily digests](daily/README.md)
+
 
 Questions only. No product claims, no medical claims.
 
