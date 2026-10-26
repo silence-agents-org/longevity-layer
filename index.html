@@ -1,0 +1,30 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Long-Horizon Pattern Ledger</title>
+<style>
+:root{--bg:#0d0d0f;--panel:#16161a;--ink:#e8e6e1;--mute:#8a877f;--line:#2a2a30;--a:#c9b37e;--b:#7e9cc9}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 ui-sans-serif,system-ui,sans-serif}
+main{max-width:920px;margin:0 auto;padding:32px 20px}h1{font-weight:500;letter-spacing:.04em;margin:0 0 4px}
+.sub{color:var(--mute);margin:0 0 24px}.card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:16px;margin-bottom:16px}
+label{color:var(--mute);font-size:13px}input,select,button{background:#0f0f12;color:var(--ink);border:1px solid var(--line);border-radius:6px;padding:7px 9px;font:inherit}
+button{cursor:pointer}button.p{border-color:var(--a);color:var(--a)}.row{display:flex;gap:10px;flex-wrap:wrap;align-items:end}
+canvas{width:100%;height:260px;display:block}table{width:100%;border-collapse:collapse;font-size:13px}td,th{border-bottom:1px solid var(--line);padding:5px;text-align:left}
+.k{color:var(--a)}.d{color:var(--b)}footer{color:var(--mute);font-size:12px;margin-top:24px}
+</style></head><body><main>
+<h1>Long-Horizon Pattern Ledger</h1>
+<p class="sub">Local-first. Rule-based. Data stays in this browser (localStorage). Not medical advice.</p>
+<div class="card"><div class="row">
+<div><label>Date<br><input id="dt" type="date"></label></div>
+<div><label>Signal<br><input id="sig" list="sigs" value="energy" size="12"></label><datalist id="sigs"><option>energy<option>sleep_hours<option>steps<option>mood</datalist></div>
+<div><label>Value<br><input id="val" type="number" step="any" size="8"></label></div>
+<div><label>Source / device<br><input id="src" value="manual" size="10"></label></div>
+<button class="p" id="add">Add entry</button><button id="demo">Load demo data</button><button id="exp">Export JSON</button>
+<label>Import<br><input id="imp" type="file" accept=".json"></label><button id="clr">Clear</button>
+</div></div>
+<div class="card"><div class="row"><label>View signal<br><select id="view"></select></label>
+<label>Slow window (days)<br><input id="win" type="number" value="90" size="5"></label></div>
+<canvas id="cv" width="880" height="260"></canvas>
+<p id="sum"></p></div>
+<div class="card"><table><thead><tr><th>Source segment</th><th>From</th><th>To</th><th>n</th><th>Mean</th><th>Step vs previous</th></tr></thead><tbody id="seg"></tbody></table>
+<p class="sub" style="margin:8px 0 0">A large step exactly at a source change is a <span class="d">measurement-drift candidate</span>, not evidence of change. A gradual move inside one source is a <span class="k">slow-trend candidate</span>.</p></div>
+<footer>Not medical advice. No diagnosis, no predictions. Apache-2.0.</footer>
+</main><script src="ledger.js"></script></body></html>
