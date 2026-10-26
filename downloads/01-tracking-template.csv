@@ -1,0 +1,5 @@
+date,signal,value,unit,source,context,note
+2026-01-01,resting_hr,58,bpm,watch_a,morning;rested,
+2026-01-01,hrv_rmssd,42,ms,watch_a,overnight,
+2026-01-01,sleep_hours,7.2,h,watch_a,,
+2026-01-01,energy,6,1-10,manual,,self-rating
