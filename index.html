@@ -17,7 +17,7 @@ canvas{width:100%;height:260px;display:block}table{width:100%;border-collapse:co
 <div><label>Signal<br><input id="sig" list="sigs" value="energy" size="12"></label><datalist id="sigs"><option>energy<option>sleep_hours<option>steps<option>mood</datalist></div>
 <div><label>Value<br><input id="val" type="number" step="any" size="8"></label></div>
 <div><label>Source / device<br><input id="src" value="manual" size="10"></label></div>
-<button class="p" id="add">Add entry</button><button id="demo">Load demo data</button><button id="exp">Export JSON</button>
+<button class="p" id="add">Add entry</button><button id="demo">Load demo data</button><button id="exp">Export JSON</button><button id="rep">Export report (.md)</button>
 <label>Import<br><input id="imp" type="file" accept=".json"></label><button id="clr">Clear</button>
 </div></div>
 <div class="card"><div class="row"><label>View signal<br><select id="view"></select></label>
@@ -26,5 +26,6 @@ canvas{width:100%;height:260px;display:block}table{width:100%;border-collapse:co
 <p id="sum"></p></div>
 <div class="card"><table><thead><tr><th>Source segment</th><th>From</th><th>To</th><th>n</th><th>Mean</th><th>Step vs previous</th></tr></thead><tbody id="seg"></tbody></table>
 <p class="sub" style="margin:8px 0 0">A large step exactly at a source change is a <span class="d">measurement-drift candidate</span>, not evidence of change. A gradual move inside one source is a <span class="k">slow-trend candidate</span>.</p></div>
+<div class="card"><b>Plans</b><p class="sub" style="margin:6px 0 0"><b>Free</b> (this page): unlimited local entries, JSON export, Markdown report. <b>Pro</b> (planned, not yet on sale): multi-signal yearly PDF report and device-change annotations. No checkout exists yet; see <a style="color:var(--a)" href="UPGRADE.md">UPGRADE.md</a>.</p></div>
 <footer>Not medical advice. No diagnosis, no predictions. Apache-2.0.</footer>
 </main><script src="ledger.js"></script></body></html>
