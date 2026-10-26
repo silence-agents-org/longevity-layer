@@ -14,6 +14,7 @@ Multi-year records usually break at the **source**, not at the value. So every r
 | `value` | Number only. |
 | `unit` | Write it every time. Unit changes are silent breaks. |
 | `source` | Device, app or "manual". **A new watch = a new source name**, even if it's the same brand. |
+| `prompt_version` | For self-rated or diary signals: a short label for the exact question wording, e.g. `energy_q_v1`. **Reworded the question? Bump the version.** A reworded prompt is a new instrument, so the change shows up as a known break, not as a silent one. Leave it empty for device readings. |
 | `context` | Conditions that affect the reading: `morning`, `post-travel`, `ill`, `late-meal`. |
 | `note` | Free text. |
 
