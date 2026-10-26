@@ -28,6 +28,9 @@ node test.js         # deterministic rule checks
 3. Slow trend = least-squares slope per year, computed within each source only.
 4. Rolling window (default 90 days) is display only.
 
+## Upgrade path
+Free today: JSON export and a Markdown report. A Pro tier (yearly PDF report) is planned; no checkout yet. See [UPGRADE.md](UPGRADE.md).
+
 ## Research
 Open questions with public sources: [research/](research/README.md).
 
