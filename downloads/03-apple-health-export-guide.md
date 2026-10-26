@@ -30,7 +30,7 @@ The script reads the XML line by line (works for multi-GB files) and makes **one
 ```bash
 node serve.js   # http://127.0.0.1:4173
 ```
-Click **Import JSON**, pick `ledger.json`, choose a signal in the view menu. Data is kept in your browser's localStorage only.
+Click **Import**, pick `ledger.json`, choose a signal in the view menu. Data is kept in your browser's localStorage only.
 
 ## Manual data
 Fill [`01-tracking-template.csv`](01-tracking-template.csv), then `node tools/csv-to-ledger.js my.csv > manual.json` and import it too.
