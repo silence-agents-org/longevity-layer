@@ -32,6 +32,8 @@ node test.js         # deterministic rule checks
 Free today: JSON export and a Markdown report. A Pro tier (yearly PDF report) is planned; no checkout yet. See [UPGRADE.md](UPGRADE.md).
 
 ## Research
+**Latest signals (Asia, US, New Zealand, Canada): [research/SIGNALS.md](research/SIGNALS.md)** · [daily digests](research/daily/README.md)
+
 Open questions with public sources: [research/](research/README.md).
 
 ## License
