@@ -1,0 +1,84 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><title>04-baseline-worksheet</title><style>body{font:12px system-ui,sans-serif;max-width:780px;margin:20px auto}table{border-collapse:collapse;width:100%}td,th{border:1px solid #888;padding:4px;height:20px}th{background:#eee}code{background:#f3f3f3}@page{size:A4;margin:12mm}</style><h1>04 · Personal baseline worksheet: noise vs. real change</h1>
+<p><strong>Not medical advice.</strong> A statistics worksheet for your own records. It doesn't tell you what's healthy, and it doesn't predict anything. Printable version: <a href="04-baseline-worksheet.html"><code>04-baseline-worksheet.html</code></a>.</p>
+<p>Daily readings like resting heart rate, HRV and sleep duration bounce around from day to day. The aim here is to learn <strong>how big your normal bounce is</strong> before you call anything a change.</p>
+<h2>Step 1 · Fix the conditions</h2>
+<p>Same device, same time (e.g. on waking), same position. HRV is especially sensitive to conditions and length of the recording (<a href="SOURCES.md">S5</a>). Write down your conditions:</p>
+<p><code>Signal: ________ Device/source: ________ When: ________ Position: ________</code></p>
+<h2>Step 2 · Collect a baseline (≥ 4 weeks, ordinary weeks)</h2>
+<table>
+<thead>
+<tr>
+<th>Signal</th>
+<th>Days (n)</th>
+<th>Mean</th>
+<th>SD (day-to-day)</th>
+<th>7-day mean range seen</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Resting HR</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HRV (state SDNN or RMSSD)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Sleep hours</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Skip days marked <code>ill</code>, <code>travel</code>, <code>alcohol</code> in context, or analyse them separately.</p>
+<h2>Step 3 · How much change is bigger than noise?</h2>
+<ul>
+<li><strong>Typical error.</strong> Day-to-day SD within a stable period is your noise (<a href="SOURCES.md">S3</a> covers reliability and typical error in measurement).</li>
+<li><strong>Average before you compare.</strong> Weekly averages are steadier than single days. People monitoring HRV in sport use rolling 7-day averages for this reason (<a href="SOURCES.md">S6</a>).</li>
+<li><strong>Rule of thumb you can write down:</strong> a weekly mean that sits outside <em>baseline mean ± 2 × (daily SD ÷ √7)</em> for 2+ weeks is worth a note. That's a statement about your data, not about your health.</li>
+</ul>
+<p><code>My threshold for weekly ________: ______ ± ______</code></p>
+<h2>Step 4 · Two devices? Bland-Altman in plain words</h2>
+<p>For each overlap day write B − A. <strong>Bias</strong> = mean of those differences. <strong>Limits of agreement</strong> = bias ± 1.96 × SD of the differences (<a href="SOURCES.md">S2</a>). If the limits are wide, the devices can't be swapped, no matter how well they correlate.</p>
+<h2>Step 5 · Slow drifts: CUSUM in plain words</h2>
+<p>A CUSUM adds up small deviations from your baseline so a slow, steady shift becomes visible (<a href="SOURCES.md">S4</a>).
+1. Pick k = 0.5 × SD (ignore wiggles smaller than this).
+2. Each day: <code>S⁺ = max(0, S⁺ + (x − mean − k))</code>, <code>S⁻ = max(0, S⁻ + (mean − x − k))</code>.
+3. If S⁺ or S⁻ goes above h = 4–5 × SD, note "sustained shift from date ___". Reset both to 0 and set a new baseline.</p>
+<table>
+<thead>
+<tr>
+<th>Day</th>
+<th>x</th>
+<th>x − mean</th>
+<th>S⁺</th>
+<th>S⁻</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2>Step 6 · Before calling it a change, check</h2>
+<ul>
+<li>[ ] Same source the whole time? (else see <a href="02-device-switch-checklist.md">02</a>)</li>
+<li>[ ] Same measurement conditions?</li>
+<li>[ ] Bigger than my threshold for 2+ weeks?</li>
+<li>[ ] Any context (season, travel, illness, schedule) that explains it?</li>
+</ul>
+<p>If something worries you about your health, talk to a clinician. This worksheet can't help with that.</p><p style="font-size:10px;color:#444">Not medical advice. github.com/silence-agents-org/longevity-layer · Apache-2.0</p></html>
