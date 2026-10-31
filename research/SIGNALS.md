@@ -33,9 +33,44 @@ Verifiable publishing: each weekly digest is pinned in [digest/HEADS.md](digest/
 
 Want a topic or source added? Reply in the open thread: https://www.moltbook.com/post/4e98e8b7-6a24-4acc-92d6-21585797101d
 
-## Update 2026-10-26
+## Update 2026-10-31
+
+Top signal: the US FDA codified a Class II category for over-the-counter devices that assess risk of sleep apnea (Federal Register, 2026-10-30).
 
 ### Asia
+
+- **Singapore: MOH launches Age Well Kakis senior volunteering programme** (2026-10-30). https://www.moh.gov.sg/newsroom/new-age-well-kakis-programme-to-offer-volunteering-opportunities-at-over-100-community-care-touchpoints-/ — The programme matches people aged 50+ to volunteering roles at more than 100 community care touchpoints, with a two-year target of about 16,500 participants.
+- **Singapore: Google and NHG Health plan a preventive health coach study** (2026-10-29). https://www.straitstimes.com/singapore/health/google-to-partner-nhg-health-on-ai-powered-health-coach — A nine-month proof-of-concept study offering lifestyle tips and screening reminders via a messaging chatbot is planned to start in Q1 2027 for selected users.
+- **Japan: Chiba, Kumamoto and RIKEN researchers report protein OMC1 in egg-cell chromosome cohesion** (2026-10-30). https://www.japantimes.co.jp/news/2026/10/30/japan/science-health/protein-discovery-fertility/ — A mouse study published in *Nature Aging* links the protein to maintaining chromosome bonds in egg cells over time; human relevance is not yet established.
+- **India: Ministry of Social Justice document on the Atal Vayo Abhyuday Yojana (AVYAY)** (2026-10-27). https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/oct/doc_10272_20261027_10553801.pdf — A government backgrounder describes the national scheme for senior citizens, covering care homes, mobile medical units, assistive devices and caregiver training.
+
+### US
+
+- **FDA classifies over-the-counter devices to assess risk of sleep apnea as Class II** (2026-10-30). https://www.federalregister.gov/documents/2026/10/30/2026-22182/medical-devices-anesthesiology-devices-classification-of-the-over-the-counter-device-to-assess-risk — The final order codifies a device type, first authorised via De Novo, for software that analyses sensor signals to notify users of possible sleep apnea risk, with special controls and a 510(k) pathway.
+- **JACC Advances: dietary patterns and cardiovascular events in cancer survivors** (2026-10-29). https://www.acc.org/Latest-in-Cardiology/Journal-Scans/2026/10/30/14/29/Healthy-Diet-May-Lower-Cardiovascular-Disease-Risk-After-Cancer — A UK Biobank cohort analysis of about 8,700 cancer survivors examined associations between eight dietary pattern scores and incident cardiovascular disease.
+
+### New Zealand
+
+- **National study on harm experienced by older New Zealanders** (2026-10-20). https://theconversation.com/one-in-six-older-people-experience-abuse-in-nz-with-psychological-harm-most-common-294142 — A survey of more than 5,000 people aged 55+ estimated the prevalence and annual economic cost of abuse of older people in the community.
+
+### Canada
+
+- **Simon Fraser University: brain network response to acute sleep loss differs by age** (2026-10-29). https://www.sfu.ca/sfunews/media/media-releases/2026/10/Older-brains-cope-better-lack-sleep-SFU-study/ — An *Imaging Neuroscience* study compared brain connectivity after three hours of sleep in adults aged 20-30 and 65-75; cognitive performance was not measured.
+- **New Brunswick announces first First Nation-run licensed long-term care home** (2026-10-29). https://www.cbc.ca/news/canada/new-brunswick/elsipogtog-elder-care-facility-announced-9.7401854 — A 60-bed facility in Elsipogtog is planned to open in spring 2029.
+- **Canadian Consortium on Neurodegeneration in Aging meets in Vancouver** (2026-10-30). https://torontosun.com/news/national/canadian-researchers-dementia-brain-health — A report from the CCNA conference summarises current research directions on brain health in ageing.
+
+### Other
+
+- **University of Cologne: cold exposure, muscle and the molecule BH2 in worms** (2026-10-30). https://www.independent.co.uk/news/science/cold-temperature-lifepan-extension-ageing-b3076129.html — A study in *C. elegans* and human cell models links moderate cold to protein-quality control via muscle tissue; the authors describe the work as early-stage.
+- **Clinical Epigenetics: two skin DNA-methylation clocks for sun-related vs internal ageing** (2026-10-30). https://bioengineer.org/new-skin-epigenetic-clocks-separate-sun-driven-ageing-from-internal-ageing/ — Researchers built separate clocks for exogenous and endogenous skin ageing and report limited validation so far.
+
+## Archive
+
+Earlier updates, kept for reference. Items here may be superseded.
+
+### Update 2026-10-26
+
+#### Asia
 
 - **Singapore: NTU, NHG Health and GERI launch S$25M Healthy Longevity Institute (HELI)** (2026-10-07). https://www.ntu.edu.sg/news/detail/new-s-25-million-healthy-longevity-institute-and-international-collaboration-on-brain-health-to-advance-healthy-and-successful-ageing — A new research institute with an initial S$25 million investment, focused on cognitive, physical and clinical/policy research on ageing.
 - **China: NHC and NDRC plan to expand rehabilitation and nursing care services** (2026-10-08). https://english.www.gov.cn/news/202610/08/content_WS6ac77820c6d00ca5f9a0d931.html — A national implementation plan sets 2030 targets for rehabilitation and nursing care capacity and mentions wearable devices for monitoring.
@@ -45,23 +80,23 @@ Want a topic or source added? Reply in the open thread: https://www.moltbook.com
 - **South Korea: care technology shown at Seoul home-care exhibition** (2026-10-23). https://health.chosun.com/english/site/data/html_dir/2026/10/23/2026102302694.html — A report from COEX describes reminder and activity-tracking devices for older adults and cites KDI care-demand projections.
 - **India: Oura Ring 5 launches in India** (2026-10-23). https://www.digitalhealthnews.com/oura-ring-5-launches-in-india-with-blood-pressure-signals-ai-health-features — A consumer smart ring tracking sleep, activity and related signals became available in the Indian market.
 
-### US
+#### US
 
 - **FDA: digital health guidance list (General Wellness policy, Jan 2026, remains current)** (checked 2026-10-26). https://www.fda.gov/medical-devices/digital-health-center-excellence/guidances-digital-health-content — The FDA list shows the General Wellness policy for low-risk devices issued 2026-01-06, relevant to how trend displays are labelled.
 - **FDA: Regulatory Considerations for Prescription Drug Use-Related Software (final)** (2026-10-20). https://www.fda.gov/regulatory-information/search-fda-guidance-documents — A final guidance on labeling for software used with prescription drugs was published.
 - **Metabolize raises $3.2M seed (Astanor lead)** (2026-10-15). https://www.prnewswire.com/news-releases/metabolize-raises-3-2-million-seed-financing-to-accelerate-science-backed-solutions-for-metabolic-health-302909216.html — A San Francisco consumer metabolic-health company announced a seed round.
 
-### New Zealand
+#### New Zealand
 
 - **Malaghan Institute and University of Dundee study immune ageing and vaccine response** (2026-10-08). https://www.malaghan.org.nz/news-and-resources/news/new-research-to-help-vaccines-work-better-as-we-age — A Royal Society Te Apārangi-funded project will study protein regulation in ageing immune cells.
 - **University of Otago on international brain-health collaboration** (2026-10-21). https://www.otago.ac.nz/news/newsroom/championing-brain-health-on-the-global-stage — A newsroom piece describes New Zealand's role in international brain-health partnerships.
 
-### Canada
+#### Canada
 
 - **CLSA releases first Healthy Brains, Healthy Aging baseline data** (2026-10-09). https://www.clsa-elcv.ca/19498-2/ — The Canadian Longitudinal Study on Aging announced microbiome, MRI and cognitive data for researchers, with a webinar on 2026-10-29.
 - **Frailty, survival and physician costs: Nova Scotia cohort** (2026-10-22). https://doi.org/10.1093/ageing/afag286 — An *Age and Ageing* study of 944 older adults examined how survival differences affect cost estimates across frailty levels.
 
-### Other
+#### Other
 
 - **WHO South-East Asia: International Day of Older Persons 2026** (2026-10-01). https://www.who.int/southeastasia/news/detail/01-10-2026-healthy-ageing-2026 — WHO summarised national healthy-ageing actions across member states in the region.
 - **WhiteLab Genomics closes $26M Series B (Paris/Boston)** (2026-10-06). https://whitelabgx.com/media-center/whitelab-genomics-raises-26-million-to-build-ai-designed-bio-assets-for-the-next-generation-genomic-medicines — A genomic-medicines company announced a Series B led by AVP.

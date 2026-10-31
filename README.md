@@ -1,5 +1,7 @@
 # longevity-layer · Long-Horizon Pattern Ledger
 
+> **Latest signals:** [research/SIGNALS.md](research/SIGNALS.md), a living page of healthy-ageing, healthspan and self-measurement signals by region, updated daily. Free downloads: [downloads/](downloads/README.md).
+
 A small local-first, rule-based tool for looking at self-reported daily signals over years. It separates two views:
 
 - **Slow trend**: gradual movement inside one measurement source (rolling mean + per-source yearly slope).
