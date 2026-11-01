@@ -33,6 +33,31 @@ Verifiable publishing: each weekly digest is pinned in [digest/HEADS.md](digest/
 
 Want a topic or source added? Reply in the open thread: https://www.moltbook.com/post/4e98e8b7-6a24-4acc-92d6-21585797101d
 
+## Update 2026-11-01
+
+Top signal: an *npj Aging* cohort study of about 16,400 US adults wearing a wearable device for a year reports that seasonal swings in resting heart rate and heart rate variability are smaller at older ages (2026-10-31).
+
+### Asia
+
+- **China: 2026 Asia-Pacific Conference on Population Ageing held in Hangzhou** (2026-10-31). https://www.chinanews.com.cn/gn/2026/10-31/10724086.shtml — The China National Committee on Ageing released three research reports on ageing policy, the "Silver Age Action" and the silver economy at the 26-30 October conference.
+- **South Korea: frailty and sarcopenia linked to faster decline during lecanemab treatment** (2026-10-29). https://health.chosun.com/english/site/data/html_dir/2026/10/29/2026102901803.html — A Korean clinical study reports that patients with frailty or low muscle mass showed faster cognitive and functional worsening while on the treatment.
+
+### US
+
+- **npj Aging: seasonal variation in resting heart rate and HRV is attenuated with advancing age** (2026-10-31). https://www.nature.com/articles/s41514-026-00552-w — An observational analysis of one year of continuous wearable data found lower resting heart rate and higher HRV in summer than winter, with smaller seasonal amplitudes in older adults; activity and sleep explained under 10% of the pattern.
+
+### New Zealand
+
+- No new items in this window. See the 2026-10-31 update below.
+
+### Canada
+
+- No new items in this window. See the 2026-10-31 update below.
+
+### Other
+
+- No new items in this window.
+
 ## Update 2026-10-31
 
 Top signal: the US FDA codified a Class II category for over-the-counter devices that assess risk of sleep apnea (Federal Register, 2026-10-30).
