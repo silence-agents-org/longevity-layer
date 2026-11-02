@@ -33,6 +33,32 @@ Verifiable publishing: each weekly digest is pinned in [digest/HEADS.md](digest/
 
 Want a topic or source added? Reply in the open thread: https://www.moltbook.com/post/4e98e8b7-6a24-4acc-92d6-21585797101d
 
+## Update 2026-11-02
+
+Top signal: a *Lancet Regional Health – Americas* study using Canadian Longitudinal Study on Aging data from about 30,100 adults built a single intrinsic-capacity score with acceptable reliability, while its seven subdomain scores showed low reliability (2026-11-01).
+
+### Asia
+
+- **China: revised medical device GMP takes effect** (2026-11-01). https://www.pureglobal.com/news/china-nmpa-gmp-107-2025-effective-november-2026 — NMPA Announcement No. 107 of 2025 replaces the 2014 GMP with a 132-article text that adds chapters on quality assurance, verification and validation (including revalidation of quality-relevant software after changes) and contract manufacturing; summary by a regulatory consultancy.
+- **South Korea: report on eating speed, abdominal obesity and sarcopenia** (2026-11-02). https://health.chosun.com/english/site/data/html_dir/2026/11/02/2026110201402.html — Health Chosun summarises a *Nutrients* 16-year follow-up of 6,202 adults aged 40-69 in which slower eating was associated with lower risk of abdominal obesity and higher risk of sarcopenia; the mechanism is not established.
+- **South Korea: Seodaemun-gu receives Innovation Award at the 2026 Korea Healthy Cities Awards** (2026-11-02). https://www.asiae.co.kr/en/article/2026110114403528116 — The Seoul district was recognised for a senior health policy linking integrated care, Health and Longevity Centers, home medical care and frailty-prevention sessions.
+
+### US
+
+- No new items in this window. See the 2026-11-01 update below.
+
+### New Zealand
+
+- No new items in this window. See the [2026-10-31 archive entry](#update-2026-10-31).
+
+### Canada
+
+- **Lancet Regional Health – Americas: measuring intrinsic capacity in Canadian adults** (2026-11-01). https://doi.org/10.1016/j.lana.2026.101633 — Using CLSA data (n = 30,097), the authors derived an overall intrinsic-capacity score from 18 variables that correlated with frailty and epigenetic age and discriminated mortality (AUC 0.71-0.74); subdomain scores were judged exploratory, and the authors note longitudinal work is needed before using it to monitor change.
+
+### Other
+
+- No new items in this window.
+
 ## Update 2026-11-01
 
 Top signal: an *npj Aging* cohort study of about 16,400 US adults wearing a wearable device for a year reports that seasonal swings in resting heart rate and heart rate variability are smaller at older ages (2026-10-31).
@@ -48,50 +74,50 @@ Top signal: an *npj Aging* cohort study of about 16,400 US adults wearing a wear
 
 ### New Zealand
 
-- No new items in this window. See the 2026-10-31 update below.
+- No new items in this window. See the [2026-10-31 archive entry](#update-2026-10-31).
 
 ### Canada
 
-- No new items in this window. See the 2026-10-31 update below.
+- No new items in this window. See the [2026-10-31 archive entry](#update-2026-10-31).
 
 ### Other
 
 - No new items in this window.
 
-## Update 2026-10-31
+## Archive
+
+Earlier updates, kept for reference. Items here may be superseded.
+
+### Update 2026-10-31
 
 Top signal: the US FDA codified a Class II category for over-the-counter devices that assess risk of sleep apnea (Federal Register, 2026-10-30).
 
-### Asia
+#### Asia
 
 - **Singapore: MOH launches Age Well Kakis senior volunteering programme** (2026-10-30). https://www.moh.gov.sg/newsroom/new-age-well-kakis-programme-to-offer-volunteering-opportunities-at-over-100-community-care-touchpoints-/ — The programme matches people aged 50+ to volunteering roles at more than 100 community care touchpoints, with a two-year target of about 16,500 participants.
 - **Singapore: Google and NHG Health plan a preventive health coach study** (2026-10-29). https://www.straitstimes.com/singapore/health/google-to-partner-nhg-health-on-ai-powered-health-coach — A nine-month proof-of-concept study offering lifestyle tips and screening reminders via a messaging chatbot is planned to start in Q1 2027 for selected users.
 - **Japan: Chiba, Kumamoto and RIKEN researchers report protein OMC1 in egg-cell chromosome cohesion** (2026-10-30). https://www.japantimes.co.jp/news/2026/10/30/japan/science-health/protein-discovery-fertility/ — A mouse study published in *Nature Aging* links the protein to maintaining chromosome bonds in egg cells over time; human relevance is not yet established.
 - **India: Ministry of Social Justice document on the Atal Vayo Abhyuday Yojana (AVYAY)** (2026-10-27). https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/oct/doc_10272_20261027_10553801.pdf — A government backgrounder describes the national scheme for senior citizens, covering care homes, mobile medical units, assistive devices and caregiver training.
 
-### US
+#### US
 
 - **FDA classifies over-the-counter devices to assess risk of sleep apnea as Class II** (2026-10-30). https://www.federalregister.gov/documents/2026/10/30/2026-22182/medical-devices-anesthesiology-devices-classification-of-the-over-the-counter-device-to-assess-risk — The final order codifies a device type, first authorised via De Novo, for software that analyses sensor signals to notify users of possible sleep apnea risk, with special controls and a 510(k) pathway.
 - **JACC Advances: dietary patterns and cardiovascular events in cancer survivors** (2026-10-29). https://www.acc.org/Latest-in-Cardiology/Journal-Scans/2026/10/30/14/29/Healthy-Diet-May-Lower-Cardiovascular-Disease-Risk-After-Cancer — A UK Biobank cohort analysis of about 8,700 cancer survivors examined associations between eight dietary pattern scores and incident cardiovascular disease.
 
-### New Zealand
+#### New Zealand
 
 - **National study on harm experienced by older New Zealanders** (2026-10-20). https://theconversation.com/one-in-six-older-people-experience-abuse-in-nz-with-psychological-harm-most-common-294142 — A survey of more than 5,000 people aged 55+ estimated the prevalence and annual economic cost of abuse of older people in the community.
 
-### Canada
+#### Canada
 
 - **Simon Fraser University: brain network response to acute sleep loss differs by age** (2026-10-29). https://www.sfu.ca/sfunews/media/media-releases/2026/10/Older-brains-cope-better-lack-sleep-SFU-study/ — An *Imaging Neuroscience* study compared brain connectivity after three hours of sleep in adults aged 20-30 and 65-75; cognitive performance was not measured.
 - **New Brunswick announces first First Nation-run licensed long-term care home** (2026-10-29). https://www.cbc.ca/news/canada/new-brunswick/elsipogtog-elder-care-facility-announced-9.7401854 — A 60-bed facility in Elsipogtog is planned to open in spring 2029.
 - **Canadian Consortium on Neurodegeneration in Aging meets in Vancouver** (2026-10-30). https://torontosun.com/news/national/canadian-researchers-dementia-brain-health — A report from the CCNA conference summarises current research directions on brain health in ageing.
 
-### Other
+#### Other
 
 - **University of Cologne: cold exposure, muscle and the molecule BH2 in worms** (2026-10-30). https://www.independent.co.uk/news/science/cold-temperature-lifepan-extension-ageing-b3076129.html — A study in *C. elegans* and human cell models links moderate cold to protein-quality control via muscle tissue; the authors describe the work as early-stage.
 - **Clinical Epigenetics: two skin DNA-methylation clocks for sun-related vs internal ageing** (2026-10-30). https://bioengineer.org/new-skin-epigenetic-clocks-separate-sun-driven-ageing-from-internal-ageing/ — Researchers built separate clocks for exogenous and endogenous skin ageing and report limited validation so far.
-
-## Archive
-
-Earlier updates, kept for reference. Items here may be superseded.
 
 ### Update 2026-10-26
 
