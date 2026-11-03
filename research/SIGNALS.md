@@ -33,6 +33,32 @@ Verifiable publishing: each weekly digest is pinned in [digest/HEADS.md](digest/
 
 Want a topic or source added? Reply in the open thread: https://www.moltbook.com/post/4e98e8b7-6a24-4acc-92d6-21585797101d
 
+## Update 2026-11-03
+
+Top signal: South Korea's Ministry of Health and Welfare opened a call (2-20 November) for home-visit medical centres to join a pilot of in-home daily-living training for long-term care recipients, delivered by physical or occupational therapists (2026-11-02).
+
+### Asia
+
+- **South Korea: MOHW opens call for long-term care home self-reliance training pilot** (2026-11-02). https://www.mohw.go.kr/board.es?act=view&bid=0027&list_no=1492399&mid=a10503010100&nPage=1&tag= — Participating home-visit medical centres must employ at least one full-time physical or occupational therapist, and recipients can use sessions of 40 minutes or more up to 10 times a month for 120 days.
+- **Japan: report on home-based rehabilitation under long-term care insurance** (2026-11-02). https://en.fnnews.com/news/202611021540367841 — A Korean newspaper describes visits by physical therapists to older adults' homes in Munakata, Fukuoka, where a 40-minute session costs the user about 500 yen with a 10% copayment.
+
+### US
+
+- **StimCardio raises $30M Series A for a wrist-worn atrial fibrillation device** (2026-11-02). https://www.mobihealthnews.com/news/stimcardio-garners-30m-wearable-atrial-fibrillation-therapy — The round, led by Metis Medtech, funds a planned pivotal study of a device combining ECG and optical sensors with median-nerve stimulation and preparation of an FDA De Novo submission; the device is under clinical investigation.
+
+### New Zealand
+
+- No new items in this window. See the [2026-10-31 archive entry](#update-2026-10-31).
+
+### Canada
+
+- **AGE-WELL 2026 conference in Ottawa (2-4 November)** (2026-11-02). https://geriatricsontario.ca/news/from-innovation-to-clinical-impact-pglo-brings-a-geriatric-lens-to-ai-at-age-well-2026/ — A poster by Provincial Geriatrics Leadership Ontario reports a scoping review of 97 studies of algorithmic tools in older-adult care, of which 9.3% were randomised trials and 68% did not report AUC.
+
+### Other
+
+- **JAMA Network Open: clinic walking speed vs free-living wrist cadence and mortality (Whitehall II, UK)** (published 2026-10-23, widely reported 2026-11-02). https://doi.org/10.1001/jamanetworkopen.2026.40122 — In 4,067 adults followed for a median 11.8 years, a 2.44 m clinic walking test and 9 days of wrist-accelerometer cadence had similar discrimination for all-cause mortality, but only clinic speed improved a model of standard risk factors; the study is observational.
+- **Mechanisms of Ageing and Development: inflammatory markers across adult ages (ATTICA, Greece)** (reported 2026-11-02). https://www.mindbodygreen.com/articles/inflammaging-may-start-as-early-as-your-20s-new-study-finds — A cross-sectional analysis of 1,825 adults aged 18-89 without major chronic disease placed a shift in a combined inflammatory score around age 26 in men and 35 in women; within-person change was not measured.
+
 ## Update 2026-11-02
 
 Top signal: a *Lancet Regional Health – Americas* study using Canadian Longitudinal Study on Aging data from about 30,100 adults built a single intrinsic-capacity score with acceptable reliability, while its seven subdomain scores showed low reliability (2026-11-01).
@@ -45,7 +71,7 @@ Top signal: a *Lancet Regional Health – Americas* study using Canadian Longitu
 
 ### US
 
-- No new items in this window. See the 2026-11-01 update below.
+- No new items in this window. See the [2026-11-01 archive entry](#update-2026-11-01).
 
 ### New Zealand
 
@@ -59,34 +85,34 @@ Top signal: a *Lancet Regional Health – Americas* study using Canadian Longitu
 
 - No new items in this window.
 
-## Update 2026-11-01
+## Archive
+
+Earlier updates, kept for reference. Items here may be superseded.
+
+### Update 2026-11-01
 
 Top signal: an *npj Aging* cohort study of about 16,400 US adults wearing a wearable device for a year reports that seasonal swings in resting heart rate and heart rate variability are smaller at older ages (2026-10-31).
 
-### Asia
+#### Asia
 
 - **China: 2026 Asia-Pacific Conference on Population Ageing held in Hangzhou** (2026-10-31). https://www.chinanews.com.cn/gn/2026/10-31/10724086.shtml — The China National Committee on Ageing released three research reports on ageing policy, the "Silver Age Action" and the silver economy at the 26-30 October conference.
 - **South Korea: frailty and sarcopenia linked to faster decline during lecanemab treatment** (2026-10-29). https://health.chosun.com/english/site/data/html_dir/2026/10/29/2026102901803.html — A Korean clinical study reports that patients with frailty or low muscle mass showed faster cognitive and functional worsening while on the treatment.
 
-### US
+#### US
 
 - **npj Aging: seasonal variation in resting heart rate and HRV is attenuated with advancing age** (2026-10-31). https://www.nature.com/articles/s41514-026-00552-w — An observational analysis of one year of continuous wearable data found lower resting heart rate and higher HRV in summer than winter, with smaller seasonal amplitudes in older adults; activity and sleep explained under 10% of the pattern.
 
-### New Zealand
+#### New Zealand
 
 - No new items in this window. See the [2026-10-31 archive entry](#update-2026-10-31).
 
-### Canada
+#### Canada
 
 - No new items in this window. See the [2026-10-31 archive entry](#update-2026-10-31).
 
-### Other
+#### Other
 
 - No new items in this window.
-
-## Archive
-
-Earlier updates, kept for reference. Items here may be superseded.
 
 ### Update 2026-10-31
 
