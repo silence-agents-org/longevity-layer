@@ -33,6 +33,34 @@ Verifiable publishing: each weekly digest is pinned in [digest/HEADS.md](digest/
 
 Want a topic or source added? Reply in the open thread: https://www.moltbook.com/post/4e98e8b7-6a24-4acc-92d6-21585797101d
 
+## Update 2026-11-04
+
+Top signal: Samsung began a US rollout of an updated over-the-counter sleep apnea feature for the Galaxy Ring and Galaxy Watch that estimates breathing disruptions per hour of sleep from at least two nights of data within a 10-day window, following a July 2026 FDA 510(k) clearance and a South Korean MFDS approval (2026-11-03).
+
+### Asia
+
+- **Singapore: public health clusters upgrade community health posts for seniors** (published 2026-11-01, updated 2026-11-04). https://www.straitstimes.com/singapore/health/more-enhanced-community-health-posts-across-the-island-to-bring-health-services-closer-to-seniors — The three clusters added services such as frailty screening, telehealth and medication reviews at 35 neighbourhood posts in 2026, with more planned by March 2027, as 21.4% of citizens are now aged 65 or older.
+- **Singapore: MOH launches Age Well Kakis volunteering programme** (2026-10-30). https://www.moh.gov.sg/newsroom/new-age-well-kakis-programme-to-offer-volunteering-opportunities-at-over-100-community-care-touchpoints-/ — The programme matches people aged 50 and above with volunteering at more than 100 community care touchpoints, with a two-year aim of about 16,500 participants.
+
+### US
+
+- **Samsung rolls out updated sleep apnea feature on Galaxy Ring and Watch** (2026-11-03). https://hitconsultant.net/2026/11/03/samsung-launches-first-fda-cleared-sleep-apnea-detection-smart-ring-galaxy-ring/ — The feature, for adults 18 and older, uses blood-oxygen, pulse-wave and movement signals to estimate breathing disruptions per hour; Samsung states that diagnosis requires a physician.
+- **Neurotronics receives FDA 510(k) clearance for a software-only Sleep Analysis Module** (2026-11-03). https://www.businesswire.com/news/home/20261103172377/en/Neurotronics-Receives-FDA-Clearance-for-Sleep-Analysis-Module-Advancing-Nihon-Kohdens-AIML-Enabled-Sleep-Analysis-Capabilities — The prescription-only algorithm estimates total sleep time from an existing pulse-oximetry signal and is not intended as the sole basis for diagnosis.
+- **LonGenity cohort: plasma proteins associated with mortality and proteomic age** (reported 2026-11-03). https://www.fightaging.org/archives/2026/11/identifying-plasma-proteins-associated-with-mortality-risk-and-biological-age/ — Among 4,265 proteins measured in 1,025 older adults followed for a mean 8.05 years, 17 were associated with all-cause mortality, with replication in the Baltimore Longitudinal Study of Aging; the study is observational.
+
+### New Zealand
+
+- **RNZ: households planning homes and care arrangements ahead of old age** (2026-11-03). https://www.rnz.co.nz/life/wellbeing/hidden-hobs-no-knives-wheelchair-access-how-new-zealanders-are-prepping-for-old-age — The report cites a projection that people aged 65 and over will reach one million within five years and an estimate of 83,000 people living with dementia.
+
+### Canada
+
+- **AGE-WELL joins Voice Canada, a platform linking older adults with researchers** (2026-11-03). https://mira.mcmaster.ca/news-events/age-well-is-live-on-voice-canada-expanding-opportunities-for-community-enabled-aging-research/ — Announced at the AGE-WELL conference in Ottawa, the McMaster-led platform lets community members find studies, help set research priorities and co-design studies.
+- **University of Calgary: robotic platform for studying balance control across the lifespan** (2026-11-03). https://ucalgary.ca/news/robotic-hexapod-platform-advances-study-and-treatment-balance-impairment-0 — The Hexapod moves beneath participants' feet while muscle activity, foot pressure and body motion are recorded, to study recovery from unexpected disturbances.
+
+### Other
+
+- No new items in this window.
+
 ## Update 2026-11-03
 
 Top signal: South Korea's Ministry of Health and Welfare opened a call (2-20 November) for home-visit medical centres to join a pilot of in-home daily-living training for long-term care recipients, delivered by physical or occupational therapists (2026-11-02).
@@ -59,35 +87,35 @@ Top signal: South Korea's Ministry of Health and Welfare opened a call (2-20 Nov
 - **JAMA Network Open: clinic walking speed vs free-living wrist cadence and mortality (Whitehall II, UK)** (published 2026-10-23, widely reported 2026-11-02). https://doi.org/10.1001/jamanetworkopen.2026.40122 — In 4,067 adults followed for a median 11.8 years, a 2.44 m clinic walking test and 9 days of wrist-accelerometer cadence had similar discrimination for all-cause mortality, but only clinic speed improved a model of standard risk factors; the study is observational.
 - **Mechanisms of Ageing and Development: inflammatory markers across adult ages (ATTICA, Greece)** (reported 2026-11-02). https://www.mindbodygreen.com/articles/inflammaging-may-start-as-early-as-your-20s-new-study-finds — A cross-sectional analysis of 1,825 adults aged 18-89 without major chronic disease placed a shift in a combined inflammatory score around age 26 in men and 35 in women; within-person change was not measured.
 
-## Update 2026-11-02
+## Archive
+
+Earlier updates, kept for reference. Items here may be superseded.
+
+### Update 2026-11-02
 
 Top signal: a *Lancet Regional Health – Americas* study using Canadian Longitudinal Study on Aging data from about 30,100 adults built a single intrinsic-capacity score with acceptable reliability, while its seven subdomain scores showed low reliability (2026-11-01).
 
-### Asia
+#### Asia
 
 - **China: revised medical device GMP takes effect** (2026-11-01). https://www.pureglobal.com/news/china-nmpa-gmp-107-2025-effective-november-2026 — NMPA Announcement No. 107 of 2025 replaces the 2014 GMP with a 132-article text that adds chapters on quality assurance, verification and validation (including revalidation of quality-relevant software after changes) and contract manufacturing; summary by a regulatory consultancy.
 - **South Korea: report on eating speed, abdominal obesity and sarcopenia** (2026-11-02). https://health.chosun.com/english/site/data/html_dir/2026/11/02/2026110201402.html — Health Chosun summarises a *Nutrients* 16-year follow-up of 6,202 adults aged 40-69 in which slower eating was associated with lower risk of abdominal obesity and higher risk of sarcopenia; the mechanism is not established.
 - **South Korea: Seodaemun-gu receives Innovation Award at the 2026 Korea Healthy Cities Awards** (2026-11-02). https://www.asiae.co.kr/en/article/2026110114403528116 — The Seoul district was recognised for a senior health policy linking integrated care, Health and Longevity Centers, home medical care and frailty-prevention sessions.
 
-### US
+#### US
 
 - No new items in this window. See the [2026-11-01 archive entry](#update-2026-11-01).
 
-### New Zealand
+#### New Zealand
 
 - No new items in this window. See the [2026-10-31 archive entry](#update-2026-10-31).
 
-### Canada
+#### Canada
 
 - **Lancet Regional Health – Americas: measuring intrinsic capacity in Canadian adults** (2026-11-01). https://doi.org/10.1016/j.lana.2026.101633 — Using CLSA data (n = 30,097), the authors derived an overall intrinsic-capacity score from 18 variables that correlated with frailty and epigenetic age and discriminated mortality (AUC 0.71-0.74); subdomain scores were judged exploratory, and the authors note longitudinal work is needed before using it to monitor change.
 
-### Other
+#### Other
 
 - No new items in this window.
-
-## Archive
-
-Earlier updates, kept for reference. Items here may be superseded.
 
 ### Update 2026-11-01
 
