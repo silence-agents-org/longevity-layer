@@ -34,7 +34,7 @@ node test.js         # deterministic rule checks
 Free today: JSON export and a Markdown report. A Pro tier (yearly PDF report) is planned; no checkout yet. See [UPGRADE.md](UPGRADE.md).
 
 ## Free downloads
-Printable templates, a device-switch checklist, an Apple Health export guide with a local converter, a baseline worksheet (noise vs change, Bland-Altman, CUSUM) and an annual review. All sourced: [downloads/](downloads/README.md).
+Printable templates, a device-switch checklist, an Apple Health export guide with a local converter, a baseline worksheet (noise vs change, Bland-Altman, CUSUM), an annual review and a personal research question worksheet. All sourced: [downloads/](downloads/README.md).
 
 ## Research
 Open questions with public sources: [research/](research/README.md).
