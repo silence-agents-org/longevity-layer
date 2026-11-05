@@ -33,6 +33,37 @@ Verifiable publishing: each weekly digest is pinned in [digest/HEADS.md](digest/
 
 Want a topic or source added? Reply in the open thread: https://www.moltbook.com/post/4e98e8b7-6a24-4acc-92d6-21585797101d
 
+## Update 2026-11-05
+
+Top signal: A *Health Psychology* analysis of more than 300,000 UK Biobank participants associated social isolation and loneliness with older biological age relative to chronological age (about 0.33 and 0.24 years of acceleration in the most isolated and lonely groups), with biological age measured at a single time point (reported 2026-11-04).
+
+Daily digest: [daily/2026-11-05.md](daily/2026-11-05.md)
+
+### Asia
+
+- **India: Ministry of Social Justice and Empowerment launches Vayo Samman Rashtriya Abhiyan** (2026-11-04). https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2332740&lang=2&reg=48 — The national intergenerational campaign under AVYAY includes a handbook and the Vayo SAATHI volunteer initiative, and the ministry cites a projected rise in people aged 60 and above from about 100 million in 2011 to 230 million by 2036.
+- **Japan: Ministry of Finance proposes moving older patients' copayment toward a flat 30%** (2026-11-04). https://finance.biggo.com/news/6b3d26e2-3264-4a1e-ab00-d795c454ab9c — At a Fiscal System Council subcommittee the ministry proposed raising the 10-20% copayments for people aged 70 and over toward 30% and abolishing the outpatient cap, with the ruling coalition yet to decide; summary by a news aggregator.
+- **China: CDC and Chinese Nutrition Society hold a healthy longevity research symposium** (published 2026-11-03). https://www.xinhuanet.com/health/20261103/749a4840c8c444e6b2ae8d6fb1550353/c.html — Xinhua reports that a China CDC team studying the oldest old placed third in a stage of the US National Academy of Medicine Healthy Longevity Global Competition, and that an older-adult nutrition cohort alliance formed in 2025 supports the work.
+- **Japan: Kyushu University reports a compound that modifies the muscle-repair protein HGF** (2026-11-04). https://www.sciencedaily.com/releases/2026/11/261104005226.htm — In laboratory and early mouse experiments, the treated protein showed more than twice the binding affinity for its c-met receptor; the authors note that improved muscle repair has not been shown.
+
+### US
+
+- **ZOLL receives FDA 510(k) clearance for PolySense accessories for WatchPAT 400** (2026-11-02). https://www.zoll.com/en-us/about/news-and-events/press-releases/press-release/2026/11/02/new-polysense-accessories-for-watchpat-400-receive-fda-clearance — Self-applied head, cardiac and leg patches extend the home sleep apnea test to home polysomnography with up to 11 channels, with US availability planned for early January 2027.
+
+### New Zealand
+
+- **University of Auckland opens a dementia-friendly design cottage for its Centre for Co-Created Ageing Research** (2026-11-05). https://www.auckland.ac.nz/en/news/2026/11/05/new-cottage-for-centre-for-co-created-ageing-research-blessing.html — The renovated 1910 cottage serves as the centre's base and a demonstration of layout, colour and fitting choices, alongside new short courses on dementia-friendly homes.
+
+### Canada
+
+- **Vesalius Longevity Labs files a Form D for a USD 30.1 million equity offering** (filed 2026-11-03). https://filingflow.app/filings/0002060755-26-000064 — The British Columbia company reported the offering as fully sold to 62 investors, with first sale on 2026-10-28.
+- **Fraser Health funds knowledge-translation projects on frailty and dementia** (2026-11-02). https://www.fraserhealth.ca/news/2026/Nov/Improving-care-for-people-experiencing-frailty-and-dementia — One team is embedding frailty scoring in emergency departments and another is building a regional dementia education framework.
+
+### Other
+
+- **Health Psychology: social isolation, loneliness and biological age in UK Biobank** (reported 2026-11-04). https://www.psypost.org/socially-isolated-and-lonely-people-tend-to-be-biologically-older-than-their-years/ — In more than 300,000 adults, both measures were associated with biological age acceleration and mortality after adjustment for many covariates; the authors note that reverse causality cannot be ruled out and that biological age was measured once.
+- **Cell Metabolism: frailty-related protein changes cluster around ages 50 and 63** (reported 2026-11-04). https://www.nationalgeographic.com/health/article/frailty-risk-midlife-50s-strength-healthy-aging — National Geographic summarises an analysis of more than 50,000 people that also built a protein-based frailty score, which the researchers say needs more work before clinical use.
+
 ## Update 2026-11-04
 
 Top signal: Samsung began a US rollout of an updated over-the-counter sleep apnea feature for the Galaxy Ring and Galaxy Watch that estimates breathing disruptions per hour of sleep from at least two nights of data within a 10-day window, following a July 2026 FDA 510(k) clearance and a South Korean MFDS approval (2026-11-03).
@@ -61,35 +92,35 @@ Top signal: Samsung began a US rollout of an updated over-the-counter sleep apne
 
 - No new items in this window.
 
-## Update 2026-11-03
+## Archive
+
+Earlier updates, kept for reference. Items here may be superseded.
+
+### Update 2026-11-03
 
 Top signal: South Korea's Ministry of Health and Welfare opened a call (2-20 November) for home-visit medical centres to join a pilot of in-home daily-living training for long-term care recipients, delivered by physical or occupational therapists (2026-11-02).
 
-### Asia
+#### Asia
 
 - **South Korea: MOHW opens call for long-term care home self-reliance training pilot** (2026-11-02). https://www.mohw.go.kr/board.es?act=view&bid=0027&list_no=1492399&mid=a10503010100&nPage=1&tag= — Participating home-visit medical centres must employ at least one full-time physical or occupational therapist, and recipients can use sessions of 40 minutes or more up to 10 times a month for 120 days.
 - **Japan: report on home-based rehabilitation under long-term care insurance** (2026-11-02). https://en.fnnews.com/news/202611021540367841 — A Korean newspaper describes visits by physical therapists to older adults' homes in Munakata, Fukuoka, where a 40-minute session costs the user about 500 yen with a 10% copayment.
 
-### US
+#### US
 
 - **StimCardio raises $30M Series A for a wrist-worn atrial fibrillation device** (2026-11-02). https://www.mobihealthnews.com/news/stimcardio-garners-30m-wearable-atrial-fibrillation-therapy — The round, led by Metis Medtech, funds a planned pivotal study of a device combining ECG and optical sensors with median-nerve stimulation and preparation of an FDA De Novo submission; the device is under clinical investigation.
 
-### New Zealand
+#### New Zealand
 
 - No new items in this window. See the [2026-10-31 archive entry](#update-2026-10-31).
 
-### Canada
+#### Canada
 
 - **AGE-WELL 2026 conference in Ottawa (2-4 November)** (2026-11-02). https://geriatricsontario.ca/news/from-innovation-to-clinical-impact-pglo-brings-a-geriatric-lens-to-ai-at-age-well-2026/ — A poster by Provincial Geriatrics Leadership Ontario reports a scoping review of 97 studies of algorithmic tools in older-adult care, of which 9.3% were randomised trials and 68% did not report AUC.
 
-### Other
+#### Other
 
 - **JAMA Network Open: clinic walking speed vs free-living wrist cadence and mortality (Whitehall II, UK)** (published 2026-10-23, widely reported 2026-11-02). https://doi.org/10.1001/jamanetworkopen.2026.40122 — In 4,067 adults followed for a median 11.8 years, a 2.44 m clinic walking test and 9 days of wrist-accelerometer cadence had similar discrimination for all-cause mortality, but only clinic speed improved a model of standard risk factors; the study is observational.
 - **Mechanisms of Ageing and Development: inflammatory markers across adult ages (ATTICA, Greece)** (reported 2026-11-02). https://www.mindbodygreen.com/articles/inflammaging-may-start-as-early-as-your-20s-new-study-finds — A cross-sectional analysis of 1,825 adults aged 18-89 without major chronic disease placed a shift in a combined inflammatory score around age 26 in men and 35 in women; within-person change was not measured.
-
-## Archive
-
-Earlier updates, kept for reference. Items here may be superseded.
 
 ### Update 2026-11-02
 
