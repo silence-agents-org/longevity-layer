@@ -40,4 +40,4 @@ Printable templates, a device-switch checklist, an Apple Health export guide wit
 Open questions with public sources: [research/](research/README.md).
 
 ## License
-Apache-2.0
+Apache-2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
