@@ -1,6 +1,6 @@
 # Free downloads
 
-Free, printable materials for keeping **multi-year personal records** honest. Use them with the [ledger](../README.md) or with paper. Apache-2.0, like the repo.
+Free, printable materials for keeping **multi-year personal records** honest. Use them with the [ledger](../README.md) or with paper. Closed licence, like the repo: all rights reserved.
 
 **Not medical advice.** These are record-keeping and statistics tools. They don't diagnose, predict, or promise any health or lifespan outcome. Nothing here uses AI. Every method reference is listed with its URL in [SOURCES.md](SOURCES.md) (checked 2026-10-26; S8–S11 checked 2026-11-04).
 
