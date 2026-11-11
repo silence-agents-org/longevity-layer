@@ -54,4 +54,4 @@ Daily readings often resemble the day before. An autocorrelation check tests tha
 This is a statement about your records under your conditions, not about health. Add the result to your [annual review](05-annual-review-worksheet.md).
 
 ---
-Sources: [SOURCES.md](SOURCES.md) (S8–S11, checked 2026-11-04). Apache-2.0. **Not medical advice.**
+Sources: [SOURCES.md](SOURCES.md) (S8–S11, checked 2026-11-04). All rights reserved. **Not medical advice.**
